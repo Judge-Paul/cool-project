@@ -1,2 +1,2 @@
 # cool-project
-Cool prect
+Cool project
